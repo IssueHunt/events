@@ -16,4 +16,4 @@ Date and time of the event:
 
 [FAQ](https://fest2018.issuehunt.io/faq/)
 
-Release Note
+[Release Note](https://medium.com/issuehunt/issuehunt-fest-2018-make-open-source-sustainable-58c21d5ac004)
