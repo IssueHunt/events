@@ -8,16 +8,6 @@ We first announced about IssueHunt Fest 2018 Winter on [this article](https://me
 
 The event take place every year in April and December. At the event we distribute sponsored money to promising OSS listed on IssueHunt.
 
-## Mission
-
-We organized IssueHunt Fest with a simple mission in mind: to create a sustainable open source ecosystem.
-
-We think enthusiastic open source developers are not appropriately rewarded no matter how much they contribute to the technology evolution.
-
-Many leading projects use open-source software, but no matter how they are essential, the owners of those projects juggle multiple jobs to sustain their living.
-
-We want to fix this situation by nurturing a healthy open-source ecosystem.
-
 Although we held the event for the first time in 2018 winter, developer from over 121 countries participated contributing to various projects through IssueHunt.
 
 - [Highlights for IssueHunt Fest 2018](https://medium.com/issuehunt/highlights-for-issuehunt-fest-2018-ae7138b48c1)
