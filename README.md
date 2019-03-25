@@ -1,4 +1,4 @@
-![ihimage](https://cdn-images-1.medium.com/max/2000/1*ObuRA1ezyG3Kc5aC9kyB1A.png)
+![ihimage](https://gyazo.com/e43725299f13da3faa9dc89caeadfae9/thumb/1000)
 
 ## What is IssueHunt Fest?
 
@@ -6,7 +6,7 @@ IssueHunt Fest is a month long online sponsorship event for open-source projects
 
 We first announced about IssueHunt Fest 2018 Winter on [this article](https://medium.com/issuehunt/issuehunt-fest-2018-make-open-source-sustainable-58c21d5ac004).
 
-The event take place every year in April and December. At the event we distribute sponsored money to promising OSS listed on IssueHunt.
+The event take place every year in May and December. At the event we distribute sponsored money to promising OSS listed on IssueHunt.
 
 Although we held the event for the first time in 2018 winter, developer from over 121 countries participated contributing to various projects through IssueHunt.
 
@@ -14,21 +14,19 @@ Although we held the event for the first time in 2018 winter, developer from ove
 
 ## Sponsorship for IssueHunt Fest
 
-We provide three sponsorship options for a company who willing to support the event.
+IssueHunt is the open source bounty platform launched in 2018. Since the launch, IssueHunt has become a platform used by tens of thousands of developers around the world helping build important OSS projects in the Internet stack.
 
-- [IssueHunt Fest 2018 Winter](https://fest2018.issuehunt.io/)
-- [IssueHunt Fest 2018 Sponsors](https://fest2018.issuehunt.io/sponsors/)
+Sponsors of the program can support open source ecosystem by funding the important open source projects. 70% of sponsored money will be distributed to the top open source projects listed on IssueHunt (30% of funds will be used to operate IssueHunt).
 
-Event sponsors will able to list the following information on IssueHunt Fest’s sponsor page.
+Event sponsors will able to list the following information on [IssueHunt’s sponsor page](https://issuehunt.io/sponsors).
 
 - Company’s logo
 - URL
 - Description
 - Rank of Sponsor
-- Comments for OSS (optional)
 
 IssueHunt Organization will distribute collected funds to promising OSS projects listed on IssueHunt.
 
 Become a monthly sponsor and help us build the next innovative technology with OSS community.
 
-[> > > Apply Sponsor < < <](https://goo.gl/forms/x7lftMLKt1zNd8qI2)
+[> > > Apply Sponsor < < <](https://forms.gle/vw83ys1hTbU6ZE7N8)
